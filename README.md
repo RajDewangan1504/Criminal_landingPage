@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Criminal_landingPage
+# Chamical_landingPage
 Internshala Assisment
 =======
 # Getting Started with Create React App
