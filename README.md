@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Chamical_landingPage
+# Chemical_landingPage
 Internshala Assisment
 =======
 # Getting Started with Create React App
